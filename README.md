@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Charles-Abasimfon
 - 👀 I’m interested in Fullstack Website Development.
-- ✨ I'm a Professional Website Developer, An expert with the MERN STACK, ReactJS, NodeJs, MongoDB, Express, JSX, Javascript, HTML, SCSS, MySQL.
+- ✨ I'm a Professional Website Developer, An expert with the MERN STACK, ReactJS, NodeJs, MongoDB, Express, JSX, Javascript, HTML, SCSS, MySQL, Strapi CMS, AWS,
+.
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Fullstack Website Development projects.
 - 📫 How to reach me: Email: devabascharles@gmail.com
