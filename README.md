@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-Stack%20Web%20and%20Mobile%20Developer;With%2013%2B%20years%20of%20experience%2E;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## 🛠️ My favorite technologies
+## MY FAVOURITE TECHNOLOGIES
 
 ### Programming Languages
 
