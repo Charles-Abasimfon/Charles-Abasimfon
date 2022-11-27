@@ -11,7 +11,7 @@
 
 ## 🛠️ My favorite technologies
 
-### 👨‍💻 Programming and markup languages
+### Programming Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ACharles-Abasimfon+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -26,7 +26,7 @@
     <a href="https://github.com/search?q=user%3ACharles-Abasimfon+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>    
 </p>
 
-### 🧰 Frameworks and libraries
+### Frameworks and Libraries
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -67,7 +67,7 @@
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white" />
 </p>
 
-### 🗄️ Databases and cloud hosting
+### Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
